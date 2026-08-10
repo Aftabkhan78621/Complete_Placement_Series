@@ -88,6 +88,33 @@ A complete placement preparation resource designed to help students prepare for 
   - Projects
   - Certifications
   - Placement Resume Tips
+  - 
+-Complete_Placement_Series
+├── README.md
+│
+├── Dsa 90/
+│   ├── Arrays/
+│   ├── Strings/
+│   ├── Patterns/
+│   ├── Two Pointers/
+│   ├── Sliding Window/
+│   └── ...
+│
+├── Tcs Nqt/
+│   ├── NumericalAbility/
+│   ├── ResoningAbility/
+│   └── VerbalAbility/
+│
+└── python/
+    ├── Basic/
+    ├── Day2/
+    ├── Day3/
+    ├── Day4/
+    ├── Day5_String/
+    ├── Dict/
+    ├── List/
+    ├── Operators/
+    └── Tuple/
 
 ## Purpose
 
